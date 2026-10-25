@@ -7,8 +7,6 @@ Generator generator = new Generator();
 Shape shape = generator.generateValueOfType(Shape.class);
 ```
 
-Нужна Java 21. Тесты: `./gradlew test`. Пример запуска: `org.example.GenerateExample`.
-
 ## Поддерживаемые типы
 
 | Тип | Результат |
